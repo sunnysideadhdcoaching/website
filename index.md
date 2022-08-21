@@ -21,4 +21,6 @@ ADHD is a relatively common diagnosis, but that doesn't mean it should be diagno
 
 Interested in a free consultation? Just click here. 
 
-<a type="button" class="btn btn-primary btn-lg text-center" href="mailto:foo@bar.com?subject=Free Consultation Inquiry">Get a Free Consultation</a>
+<div class="container-fluid text-center">
+<a type="button" class="btn btn-primary btn-lg" href="mailto:foo@bar.com?subject=Free Consultation Inquiry">Get a Free Consultation</a></div>
+
