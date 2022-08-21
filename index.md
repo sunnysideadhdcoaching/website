@@ -3,7 +3,7 @@ layout: default
 title: "Home Page"
 ---
 
-# What is ADHD Life Coaching?
+## What is ADHD Life Coaching?
 
 Hello Beautiful Brains! I'm Sunny Love, a certified ADHD Life Coach. Thanks for stopping by checking out my site. 
 
